@@ -31,7 +31,7 @@
 
 ### Day 1: April 21, 2017
 
-**Today's Progress: Began working on the progression of exercises on FreeCodeCamp.
+**Today's Progress**: Began working on the progression of exercises on FreeCodeCamp.
 
 **Link(s) to work**
 1. [Say Hello to HTML Elements](https://www.freecodecamp.com/challenges/say-hello-to-html-elements)
