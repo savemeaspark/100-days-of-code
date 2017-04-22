@@ -86,7 +86,7 @@
 
 <!-- ### Day 3: 
 
-**Today's Progress**: 
+**Today's Progress**: Go back and take notes from exercises that have currently been completed.
 
 **Link(s) to work**
 
