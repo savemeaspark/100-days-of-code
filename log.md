@@ -86,55 +86,55 @@
 
 <!-- ### Day 3: 
 
-**Today's Progress: 
+**Today's Progress**: 
 
 **Link(s) to work**
 
 
 ### Day 4: 
 
-**Today's Progress:
+**Today's Progress**:
 
 **Link(s) to work**
 
 
 ### Day 5: 
 
-**Today's Progress:
+**Today's Progress**:
 
 **Link(s) to work**
 
 
 ### Day 6: 
 
-**Today's Progress:
+**Today's Progress**:
 
 **Link(s) to work**
 
 
 ### Day 7: 
 
-**Today's Progress:
+**Today's Progress**:
 
 **Link(s) to work**
 
 
 ### Day 8: 
 
-**Today's Progress:
+**Today's Progress**:
 
 **Link(s) to work**
 
 
 ### Day 9: 
 
-**Today's Progress:
+**Today's Progress**:
 
 **Link(s) to work**
 
 
 ### Day 10: 
 
-**Today's Progress:
+**Today's Progress**:
 
 **Link(s) to work**
