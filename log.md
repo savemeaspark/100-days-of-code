@@ -65,7 +65,7 @@
 
 ### Day 2: April 22, 2017
 
-**Today's Progress: Continued working on the progression of exercises on FreeCodeCamp.
+**Today's Progress**: Continued working on the progression of exercises on FreeCodeCamp.
 
 **Link(s) to work**
 1. [Create a Form Element](https://www.freecodecamp.com/challenges/create-a-form-element)
@@ -113,14 +113,33 @@
 43. [Add Font Awesome Icons to All of Our Buttons](https://www.freecodecamp.com/challenges/add-font-awesome-icons-to-all-of-our-buttons)
 44. [Responsively Style Radio Buttons](https://www.freecodecamp.com/challenges/responsively-style-radio-buttons)
 
-<!-- ### Day 3: 
+### Day 3: 
 
-**Today's Progress**: Go back and take notes from exercises that have currently been completed.
+**Today's Progress**: Completed FreeCode Camp section on *Responsive Design with Bootstrap* and *Gear up for Success*
 
 **Link(s) to work**
+1. [Responsively Style Checkboxes](https://www.freecodecamp.com/challenges/responsively-style-checkboxes)
+2. [Style Text Inputs as Form Controls](https://www.freecodecamp.com/challenges/style-text-inputs-as-form-controls)
+3. [Line up Form Elements Responsively with Bootstrap](https://www.freecodecamp.com/challenges/line-up-form-elements-responsively-with-bootstrap)
+4. [Create a Bootstrap Headline](https://www.freecodecamp.com/challenges/create-a-bootstrap-headline)
+5. [House our page within a Bootstrap Container Fluid Div](https://www.freecodecamp.com/challenges/house-our-page-within-a-bootstrap-container-fluid-div)
+6. [Create a Bootstrap Row](https://www.freecodecamp.com/challenges/create-a-bootstrap-row)
+7. [Split your Bootstrap Row](https://www.freecodecamp.com/challenges/split-your-bootstrap-row)
+8. [Create Bootstrap Wells](https://www.freecodecamp.com/challenges/create-bootstrap-wells)
+9. [Add Elements within your Bootstrap Wells](https://www.freecodecamp.com/challenges/add-elements-within-your-bootstrap-wells)
+10. [Apply the Default Bootstrap Button Style](https://www.freecodecamp.com/challenges/apply-the-default-bootstrap-button-style)
+11. [Create a Class to Target with jQuery Selectors](https://www.freecodecamp.com/challenges/create-a-class-to-target-with-jquery-selectors)
+12. [Add ID Attributes to Bootstrap Elements](https://www.freecodecamp.com/challenges/add-id-attributes-to-bootstrap-elements)
+13. [Label Bootstrap Wells](https://www.freecodecamp.com/challenges/label-bootstrap-wells)
+14. [Give Each Element a Unique ID](https://www.freecodecamp.com/challenges/give-each-element-a-unique-id)
+15. [Label Bootstrap Buttons](https://www.freecodecamp.com/challenges/label-bootstrap-buttons)
+16. [Use Comments to Clarify Codes](https://www.freecodecamp.com/challenges/use-comments-to-clarify-code)
+17. [Join our Forum](https://www.freecodecamp.com/challenges/join-our-forum)
+18. [Join a Free Code Camp Group in Your City](https://www.freecodecamp.com/challenges/join-a-free-code-camp-group-in-your-city)
+19. [Join our LinkedIn Alumni Network](https://www.freecodecamp.com/challenges/join-our-linkedin-alumni-network)
+20. [Become a Supporter](https://www.freecodecamp.com/challenges/become-a-supporter)
 
-
-### Day 4: 
+<!--### Day 4: 
 
 **Today's Progress**:
 
